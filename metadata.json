@@ -1,0 +1,6 @@
+{
+  "name": "Talent Match Architect",
+  "description": "An elite resume screening and talent matching system using the Gemini API to deeply evaluate candidate resumes against multiple job descriptions with 20+ years of FAANG recruiting rigor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
